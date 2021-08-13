@@ -1,1 +1,8 @@
-
+{
+    "name": "SafuYield Protocol",
+    "symbol": "SAFUYIELD",
+    "address": "0xc74cd0042c837ce59210857504ebb0859e06aa22",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/safuyield/safuyield-assets/master/logo_SAFUYIELD_200x200px.png"
+}
