@@ -1,0 +1,8 @@
+{
+    "name": "CDzExchange",
+    "symbol": "CDZ",
+    "address": "0x17acc21da1cd31d273c3f54b7d5dd556c8715b79",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/safuyield/safuswap-tokens/master/bsc/assets/0x17acc21da1cd31d273c3f54b7d5dd556c8715b79/logo.png"
+}

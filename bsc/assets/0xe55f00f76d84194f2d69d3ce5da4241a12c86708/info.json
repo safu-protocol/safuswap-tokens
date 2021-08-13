@@ -1,8 +1,0 @@
-{
-    "name": "CDZ test",
-    "symbol": "CDZ",
-    "address": "0xe55f00f76d84194f2d69d3ce5da4241a12c86708",
-    "chainId": 56,
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/safuyield/safuswap-tokens/master/0xe55f00f76d84194f2d69d3ce5da4241a12c86708/logo.png"
-}
