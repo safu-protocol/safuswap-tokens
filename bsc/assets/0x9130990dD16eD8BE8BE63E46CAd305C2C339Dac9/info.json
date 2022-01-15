@@ -1,0 +1,8 @@
+{
+    "name": "Medacoin",
+    "symbol": "MEDA",
+    "address": "0x9130990dD16eD8BE8BE63E46CAd305C2C339Dac9",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/safuyield/safuswap-tokens/master/bsc/assets/0x9130990dD16eD8BE8BE63E46CAd305C2C339Dac9/logo.png"
+}
